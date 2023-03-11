@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ai-tool-page/static/css/main.f448f8d5.css",
-    "main.js": "/ai-tool-page/static/js/main.7ac25f56.js",
+    "main.js": "/ai-tool-page/static/js/main.9c5c51b8.js",
     "index.html": "/ai-tool-page/index.html",
     "main.f448f8d5.css.map": "/ai-tool-page/static/css/main.f448f8d5.css.map",
-    "main.7ac25f56.js.map": "/ai-tool-page/static/js/main.7ac25f56.js.map"
+    "main.9c5c51b8.js.map": "/ai-tool-page/static/js/main.9c5c51b8.js.map"
   },
   "entrypoints": [
     "static/css/main.f448f8d5.css",
-    "static/js/main.7ac25f56.js"
+    "static/js/main.9c5c51b8.js"
   ]
 }
